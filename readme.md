@@ -24,7 +24,7 @@
         提取出html页面中的所有url 并跟踪这些url进行一步爬取
 
 ## 爬取结果
-    ![Image text](test.jpg)
+![Image text](test.jpg)
 
 
 
